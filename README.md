@@ -2,6 +2,6 @@
 
 Passo a passo
 
-sinita 2018
+sinita 2018...
 
 # Alunos
